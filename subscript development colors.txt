@@ -1,0 +1,6 @@
+Superscript/Subscript Development Colors:
+Accent Green: #80FFC0
+Accent Purple: #A483FE
+Accent Red: #FF8585
+Background: #151624
+Text/White: #FFFFFF
